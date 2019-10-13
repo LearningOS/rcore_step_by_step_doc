@@ -1,0 +1,5 @@
+.DS_Store
+_book
+node_modules
+update_book.sh
+gitbook
