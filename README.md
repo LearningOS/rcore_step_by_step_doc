@@ -8,7 +8,14 @@
 - [源文档](https://learningos.github.io/rcore_step_by_step_doc)
 - [web 文档](https://learningos.github.io/rcore_step_by_step_webdoc)
 
+## 前置知识
+
+- 简单的 Rust 语法（这个语言的基础使用方式和 C 类似，文章会介绍其新奇的语法）
+- RISCV 汇编（用的不多）
+
 ## 如何使用
+
+在阅读文章以及复现的过程中了解 OS 。
 
 为了方便起见，建议使用 [docker](http://www.runoob.com/docker/docker-tutorial.html) ，可以省去配置环境的功夫。
 
